@@ -6,7 +6,7 @@ O RPE é uma solução digital inovadora que visa modernizar e centralizar o pro
 
 > Novo por aqui? Confira o guia de [ONBOARDING](docs/ONBOARDING.md) para começar!
 
-## Sobre o Projeto RPE
+## Sobre o Projeto RPE.
 
 O RPE (Rocket Performance & Engagement) é uma plataforma desenvolvida para automatizar e otimizar as avaliações de desempenho, feedback 360 e gestão de talentos na Rocket Corp. O objetivo é proporcionar:
 
